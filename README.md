@@ -2,13 +2,13 @@
 
 <h2>☁️ Cloud Computing Projects:</h2>
 
-- <b>[[Tutorial] Install a Type 2 Hypervisor with Oracle VM VirtualBox](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[[Tutorial] Install a Type 2 Hypervisor with Oracle VM VirtualBox](https://github.com/bcrichton/Install-Type2-Hypervisor)</b>
   
   
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ben Crichton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
