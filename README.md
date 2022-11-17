@@ -3,7 +3,7 @@
 <h2>☁️ Cloud Computing Projects:</h2>
 
 - <b>[[Tutorial] Install a Type 2 Hypervisor with Oracle VM VirtualBox](https://github.com/bcrichton/Install-Type2-Hypervisor)</b>
-- <b>[[Tutorial] Use Snapshots wwith Windows 10 VMs](https://github.com/bcrichton/WindowsVMSnapshots)</b>
+- <b>[[Tutorial] Use Snapshots with Windows 10 VMs (.pdf)](https://github.com/bcrichton/WindowsVMSnapshots)</b>
   
   
 <h2> 🤳 Connect with me:</h2>
